@@ -40,8 +40,8 @@ export default function Features1() {
             <div className="flex flex-col-reverse justify-between gap-x-16 gap-y-8 rounded-2xl bg-indigo-600 p-8 sm:w-11/12 sm:max-w-xl sm:flex-row-reverse sm:items-end lg:w-full lg:max-w-none lg:flex-auto lg:flex-col lg:items-start lg:gap-y-28">
             <p className="flex-none text-3xl font-bold tracking-tight text-white">90% Cost Reduction</p>
             <div className="sm:w-80 sm:shrink lg:w-auto lg:flex-none">
-                <p className="text-lg font-semibold tracking-tight text-white">Our Generative AI solution only cost you 90% less than other services</p>
-                <p className="mt-2 text-base leading-7 text-indigo-200">Our mission is to provide best in class Generative AI solution while reducing it's cost 90% percent.</p>
+                <p className="text-lg font-semibold tracking-tight text-white">Our Generative AI solution cost you 90% less than other services</p>
+                <p className="mt-2 text-base leading-7 text-indigo-200">Our mission is to provide best in class Generative AI solution while keeping it cost friendly.</p>
             </div>
             </div>
         </div>
