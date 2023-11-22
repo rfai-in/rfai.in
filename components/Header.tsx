@@ -10,8 +10,8 @@ export default function Header() {
   }
 
   return (
-    <header className="w-full mt-5 mx-auto bg-white rounded-3xl px-2">
-      <div className="w-full mx-auto md:px-12 px-8 max-w-full">
+    <header className="w-full mt-5 mx-auto rounded-3xl px-2">
+      <div className="w-full mx-auto md:px-12 px-8 max-w-6xl">
         <div
           x-data="{ open: false }"
           className="relative flex flex-col max-w-7xl pt-2 mx-auto md:items-center md:justify-between md:flex-row md:px-6"
@@ -27,7 +27,7 @@ export default function Header() {
               height={25}
           />
             <h1 className="sm:text-4xl text-4xl font-bold  tracking-tight">
-            VoxLab &nbsp;
+            Rfai &nbsp;
             <sup >
               <small className="text-base">Beta</small>
             </sup>
@@ -73,7 +73,7 @@ export default function Header() {
               className="px-2 lg:px-6 py-2 md:px-3 text-lg font-medium text-black hover:text-accent-400 lg:ml-auto"
               href="/#why"
             >
-              Why Voxlab?
+              {/* Why Voxlab? */}
             </a>
 
             {/* <details className="dropdown lg:ml-auto">
@@ -88,7 +88,7 @@ export default function Header() {
               className="px-2 lg:px-6 py-2 md:px-3 text-lg font-medium text-black hover:text-accent-400"
               href="/#solutions"
             >
-              Solutions
+              {/* Solutions */}
             </a>
             
             {/* <a
@@ -100,7 +100,7 @@ export default function Header() {
 
 
 
-            <div className="inline-flex items-center gap-2 list-none lg:ml-auto">
+            {/* <div className="inline-flex items-center gap-2 list-none lg:ml-auto">
               <a
                 className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium text-white bg-[#333] hover:text-black rounded-lg group focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 hover:bg-slate-50 active:bg-slate-200 active:text-accent-400 focus-visible:outline-black"
                 href="https://tally.so/r/m6e6EA"
@@ -109,7 +109,7 @@ export default function Header() {
                 >
                 Contact Us
               </a>
-            </div>
+            </div> */}
           </nav>
         </div>
 

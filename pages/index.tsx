@@ -25,7 +25,7 @@ const Home: NextPage = () => {
   return (
     <div className="mx-auto flex max-w-full flex-col items-center justify-center py-2">
       <Head>
-        <title>VoxLab | Contact Center AI </title>
+        <title>Rfai | Royalty Free AI Generated Music </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -39,28 +39,24 @@ const Home: NextPage = () => {
       </svg>
 
       <Header />
-      <main className="mt-10 grid max-w-6xl gap-10 px-4 sm:ml-40 sm:mt-10 sm:grid-cols-2">
-        <div className="mt-10 sm:mt-16">
+      <main className="max-w-full px-4">
+        <div className="mt-5 sm:mt-10">
           {/* <Badge text={"Try our GenAI solution for Contact Center"} /> */}
           <h1 className="font-display mx-auto max-w-4xl text-3xl font-bold text-center tracking-normal text-slate-900 sm:text-6xl">
-            <span className="relative whitespace-nowrap text-[#333]">
-              <span className="relative mr-2">Improve your Contact</span>
+            <span className="relative sm:whitespace-nowrap text-[#333]">
+              <span className="relative mr-2">Royalty Free AI Generated Music </span>
             </span>
           </h1>
 
-          <h1 className="font-display relative whitespace-nowrap text-center mx-auto lg:mt-4 max-w-4xl text-3xl font-bold tracking-normal text-[#333] sm:mt-2 sm:text-6xl">
-          Center experience
-          </h1>
-
-          <p className="mx-auto mt-5 max-w-xl text-center md:text-left text-xl leading-7 text-[#333] sm:mt-5 whitespace-wrap">
-          {/* Transform contact center customer experience with generative AI. */}
+          {/* <p className="mx-auto mt-5 max-w-xl text-center md:text-left text-xl leading-7 text-[#333] sm:mt-5 whitespace-wrap">
+          Transform contact center customer experience with generative AI.
           Turn your conversations into actional insights with the help of Generative AI.
-          </p>
+          </p> */}
 
-          <div className=" grid-cols-3 mt-3 w-full md:w-[55%] lg:w-full mx-auto">
-        </div> 
+          {/* <div className=" grid-cols-3 mt-3 w-full md:w-[55%] lg:w-full mx-auto">
+        </div>  */}
 
-          <div className="flex space-x-4">
+          {/* <div className="flex space-x-4">
 
             <div className="relative inline-flex group mt-6">
                 <div
@@ -80,28 +76,28 @@ const Home: NextPage = () => {
                 </a>
             </div>
 
-            {/* <Link
+            <Link
               className="mt-7 inline-flex items-center justify-center rounded-xl border-2 bg-[#6a32ee] px-6 py-3 text-center font-medium text-white duration-200 hover:bg-transparent hover:text-black focus:outline-none focus-visible:outline-black focus-visible:ring-black lg:w-auto"
               href="https://tally.so/r/m6e6EA"
               target="_blank"
               rel="noopener noreferrer"
             >
               Contact Us
-            </Link> */}
+            </Link>
 
-            {/* <Link
+            <Link
               className="mt-7 inline-flex items-center justify-center rounded-xl border-2 bg-[#6a32ee] px-6 py-3 text-center font-medium text-white duration-200 hover:border-black hover:bg-transparent hover:text-black focus:outline-none focus-visible:outline-black focus-visible:ring-black lg:w-auto"
               href="/playground"
             >
               Try it for yourself
-            </Link> */}
-          </div>
+            </Link>
+          </div> */}
 
           {/* <li className="mt-5 ml-2">commercial use &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; •  GDPR compliance  </li> */}
         </div>
         
 
-        <div>
+        {/* <div>
           <video
             src="https://uploads-ssl.webflow.com/62fa8255a7287e714931a2ad/62fa85a47f6f589559851bfc_web_white-transcode.mp4"
             width="100%"
@@ -112,19 +108,19 @@ const Home: NextPage = () => {
             playsInline
             className="mt-10"
           ></video>
-        </div>
+        </div> */}
       </main>
 
       {/* <Testimonials /> */}
-      <Datasets />
-      <Features1/>
+      {/* <Datasets /> */}
+      {/* <Features1/> */}
       {/* <Solutions2 /> */}
       {/* <Features2 /> */}
       {/* <Solutions /> */}
       {/* <TabsTest /> */}
       {/* <Features  /> */}
-      <CallToAction />
-      <Footer />
+      {/* <CallToAction /> */}
+      {/* <Footer /> */}
     </div>
   );
 };
