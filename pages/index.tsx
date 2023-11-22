@@ -42,12 +42,19 @@ const Home: NextPage = () => {
       <main className="max-w-full px-4">
         <div className="mt-5 sm:mt-10">
           {/* <Badge text={"Try our GenAI solution for Contact Center"} /> */}
-          <h1 className="font-display mx-auto max-w-4xl text-3xl font-bold text-center tracking-normal text-slate-900 sm:text-6xl">
+          <h1 className="font-display mx-auto max-w-4xl text-4xl font-bold text-center tracking-normal text-slate-900 sm:text-6xl">
             <span className="relative sm:whitespace-nowrap text-[#333]">
               <span className="relative mr-2">Royalty Free AI Generated Music </span>
             </span>
           </h1>
 
+          <div className="grid sm:grid-cols-3 sm:mt-10 gap-2 mt-5">
+            <p className="mx-auto sm:text-xl text-lg leading-7 text-[#333]">&#10022; Umlimited music downloads</p>
+            <p className="mx-auto sm:text-xl text-lg leading-7 text-[#333]">&#10022; No Sign in required</p>
+            <p className="mx-auto sm:text-xl text-lg leading-7 text-[#333]">&#10022; No Credit card required</p>
+            {/* <p className="mx-auto mt-10 text-xl leading-7 text-[#333]">&#10040; No Sign in required</p> */}
+
+          </div>
           {/* <p className="mx-auto mt-5 max-w-xl text-center md:text-left text-xl leading-7 text-[#333] sm:mt-5 whitespace-wrap">
           Transform contact center customer experience with generative AI.
           Turn your conversations into actional insights with the help of Generative AI.
