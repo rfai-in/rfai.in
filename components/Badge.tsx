@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 export const Badge = ({ text }: { text: string }) => {
   return (
     <a
-      href="/playground"
+      href="/"
       className="bg-slate-900 no-underline group mb-8 cursor-pointer relative  shadow-2xl shadow-zinc-900 rounded-full p-px text-xs font-semibold leading-6  text-white inline-block"
     >
       <span className="absolute inset-0 overflow-hidden rounded-full">
