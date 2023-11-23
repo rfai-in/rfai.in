@@ -21,6 +21,7 @@ import {
 
 import Solutions2 from "../components/Solutions2";
 
+import Music1 from "../components/Music1";
 const Home: NextPage = () => {
   return (
     <div className="mx-auto flex max-w-full flex-col items-center justify-center py-2">
@@ -117,7 +118,7 @@ const Home: NextPage = () => {
           ></video>
         </div> */}
       </main>
-
+      <Music1 />
       {/* <Testimonials /> */}
       {/* <Datasets /> */}
       {/* <Features1/> */}
