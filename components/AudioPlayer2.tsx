@@ -8,7 +8,10 @@ const AudioPlayer: React.FC<{ url: string }> = ({ url }) => {
 
   useEffect(() => {
     if (audioRef.current) {
-      new Plyr(audioRef.current);
+      new Plyr(audioRef.current, {
+        controls: ['play', 'progress', 'current-time', 'mute', 'volume', 'download'],
+        hideControls: false,
+      });
     }
   }, []);
 
