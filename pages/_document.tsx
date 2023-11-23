@@ -9,11 +9,8 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-        <link rel="icon" href="/favicon.svg" />
-          <meta
-            name="description"
-            content="Enhance AI with Synthetic data"
-          />
+          <link rel="icon" href="/favicon.svg" />
+          <meta name="description" content="Enhance AI with Synthetic data" />
           <meta property="og:site_name" content="voxlab.co" />
           <meta
             property="og:description"
@@ -38,7 +35,6 @@ class MyDocument extends Document {
 
           {isProd && (
             <>
-
               {/* Google Analytics Measurement ID*/}
               <script async src={gtag} />
               {/* {/ Inject the GA tracking code with the Measurement ID /} */}
@@ -56,7 +52,6 @@ class MyDocument extends Document {
               />
             </>
           )}
-
         </Head>
         <body className="">
           <Main />

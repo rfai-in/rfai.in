@@ -30,31 +30,53 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <svg className="absolute inset-0 -z-10 h-full w-full stroke-green-100 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]" aria-hidden="true">
+      <svg
+        className="absolute inset-0 -z-10 h-full w-full stroke-green-100 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]"
+        aria-hidden="true"
+      >
         <defs>
-          <pattern id="0787a7c5-978c-4f66-83c7-11c213f99cb7" width="200" height="200" x="50%" y="-1" patternUnits="userSpaceOnUse">
+          <pattern
+            id="0787a7c5-978c-4f66-83c7-11c213f99cb7"
+            width="200"
+            height="200"
+            x="50%"
+            y="-1"
+            patternUnits="userSpaceOnUse"
+          >
             <path d="M.5 200V.5H200" fill="none" />
           </pattern>
         </defs>
-        <rect width="100%" height="100%" stroke-width="0" fill="url(#0787a7c5-978c-4f66-83c7-11c213f99cb7)" />
+        <rect
+          width="100%"
+          height="100%"
+          stroke-width="0"
+          fill="url(#0787a7c5-978c-4f66-83c7-11c213f99cb7)"
+        />
       </svg>
 
       <Header />
       <main className="max-w-full px-4">
         <div className="mt-5 sm:mt-10">
           {/* <Badge text={"Try our GenAI solution for Contact Center"} /> */}
-          <h1 className="font-display mx-auto max-w-4xl text-4xl font-bold text-center tracking-normal text-slate-900 sm:text-6xl">
-            <span className="relative sm:whitespace-nowrap text-[#333]">
-              <span className="relative mr-2">Royalty Free AI Generated Music </span>
+          <h1 className="font-display mx-auto max-w-4xl text-center text-4xl font-bold tracking-normal text-slate-900 sm:text-6xl">
+            <span className="relative text-[#333] sm:whitespace-nowrap">
+              <span className="relative mr-2">
+                Royalty Free AI Generated Music{" "}
+              </span>
             </span>
           </h1>
 
-          <div className="grid sm:grid-cols-3 sm:mt-10 gap-2 mt-5">
-            <p className="mx-auto sm:text-xl text-lg leading-7 text-[#333]">&#10022; Umlimited music downloads</p>
-            <p className="mx-auto sm:text-xl text-lg leading-7 text-[#333]">&#10022; No Sign in required</p>
-            <p className="mx-auto sm:text-xl text-lg leading-7 text-[#333]">&#10022; No Credit card required</p>
+          <div className="mt-5 grid gap-2 sm:mt-10 sm:grid-cols-3">
+            <p className="mx-auto text-lg leading-7 text-[#333] sm:text-xl">
+              &#10022; Umlimited music downloads
+            </p>
+            <p className="mx-auto text-lg leading-7 text-[#333] sm:text-xl">
+              &#10022; No Sign in required
+            </p>
+            <p className="mx-auto text-lg leading-7 text-[#333] sm:text-xl">
+              &#10022; No Credit card required
+            </p>
             {/* <p className="mx-auto mt-10 text-xl leading-7 text-[#333]">&#10040; No Sign in required</p> */}
-
           </div>
           {/* <p className="mx-auto mt-5 max-w-xl text-center md:text-left text-xl leading-7 text-[#333] sm:mt-5 whitespace-wrap">
           Transform contact center customer experience with generative AI.
@@ -103,7 +125,6 @@ const Home: NextPage = () => {
 
           {/* <li className="mt-5 ml-2">commercial use &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; •  GDPR compliance  </li> */}
         </div>
-        
 
         {/* <div>
           <video
