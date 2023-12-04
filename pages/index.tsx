@@ -61,7 +61,7 @@ const Home: NextPage = () => {
           <h1 className="font-display mx-auto max-w-4xl text-center text-4xl font-bold tracking-normal text-slate-900 sm:text-6xl">
             <span className="relative text-[#333] sm:whitespace-nowrap">
               <span className="relative mr-2">
-                Royalty Free AI Generated Music{" "}
+                Royalty Free music catelog‎♪
               </span>
             </span>
           </h1>

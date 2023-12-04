@@ -14,7 +14,7 @@ export default function Header() {
       <div className="w-full mx-auto md:px-12 px-8 max-w-6xl">
         <div
           x-data="{ open: false }"
-          className="relative flex flex-col max-w-7xl pt-2 mx-auto md:items-center md:justify-between md:flex-row md:px-6"
+          className="relative flex flex-col max-w-7xl mx-auto md:items-center md:justify-between md:flex-row md:px-6"
         >
           <div className="flex flex-row items-center justify-between lg:justify-start">
           <Link href="/" className="flex space-x-2">
@@ -34,7 +34,7 @@ export default function Header() {
             </h1>
           </Link>
 
-            <button
+            {/* <button
               onClick={menuExpand}
               className="inline-flex items-center justify-center p-2 text-slate-400 hover:text-black focus:outline-none focus:text-black lg:hidden"
               id='expand-menu'
@@ -61,7 +61,7 @@ export default function Header() {
                   d="M6 18L18 6M6 6l12 12"
                 ></path>
               </svg>
-            </button>
+            </button> */}
           </div>
 
           <nav
@@ -113,9 +113,9 @@ export default function Header() {
           </nav>
         </div>
 
-        <div>
+        {/* <div>
           <hr className="w-full h-0.5 border-t-0 mt-2 bg-slate-50 opacity-200 dark:opacity-200" />
-        </div>
+        </div> */}
       </div>
 
     </header>
