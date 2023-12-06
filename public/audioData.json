@@ -1,9 +1,26 @@
-
 [
-    { "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/voxlab-blob/blob/conv1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2b3hsYWItYmxvYi9ibG9iL2NvbnYxLm1wMyIsImlhdCI6MTY5ODU4OTQ0NywiZXhwIjoxNzMwMTI1NDQ3fQ.51L8icwJNO8ZKz1neHFHlFYrlhojeqc-D2WVcJbgwWs&t=2023-10-29T14%3A24%3A07.413Z", "title": "First Project" },
-    { "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/voxlab-blob/blob/conv1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2b3hsYWItYmxvYi9ibG9iL2NvbnYxLm1wMyIsImlhdCI6MTY5ODU4OTQ0NywiZXhwIjoxNzMwMTI1NDQ3fQ.51L8icwJNO8ZKz1neHFHlFYrlhojeqc-D2WVcJbgwWs&t=2023-10-29T14%3A24%3A07.413Z", "title": "Second Time" },
-    { "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/voxlab-blob/blob/conv1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2b3hsYWItYmxvYi9ibG9iL2NvbnYxLm1wMyIsImlhdCI6MTY5ODU4OTQ0NywiZXhwIjoxNzMwMTI1NDQ3fQ.51L8icwJNO8ZKz1neHFHlFYrlhojeqc-D2WVcJbgwWs&t=2023-10-29T14%3A24%3A07.413Z", "title": "Nice try" },
-    { "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/voxlab-blob/blob/conv1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ2b3hsYWItYmxvYi9ibG9iL2NvbnYxLm1wMyIsImlhdCI6MTY5ODU4OTQ0NywiZXhwIjoxNzMwMTI1NDQ3fQ.51L8icwJNO8ZKz1neHFHlFYrlhojeqc-D2WVcJbgwWs&t=2023-10-29T14%3A24%3A07.413Z", "title": "Fourth time is my lucky charm" }
-    
-  ]
-  
+  {
+    "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/test/Epic%20Battle?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Rlc3QvRXBpYyBCYXR0bGUiLCJpYXQiOjE3MDE4NDE3NDMsImV4cCI6MTcwMjQ0NjU0M30.h1uzNIUMYUY4ZOtX85vPLnNfjj_MGyayeKR_OJa9nco&t=2023-12-06T05%3A49%3A04.080Z",
+    "title": "Epic Battle",
+    "desc": "Compose an intense and powerful action music piece suitable for epic battle scenes in movies or video games.",
+    "genera":"Action"
+  },
+  {
+    "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/test/High-Speed%20Chase?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Rlc3QvSGlnaC1TcGVlZCBDaGFzZSIsImlhdCI6MTcwMTg0MTk2OSwiZXhwIjoxNzAyNDQ2NzY5fQ.A9SlIyBc0DoyN2Uq-fX82w7fSOkiFETRkvtnfwRKWiI&t=2023-12-06T05%3A52%3A49.701Z",
+    "title": "High-Speed Chase",
+    "desc":"Create a dynamic and adrenaline-pumping music track for a high-speed chase sequence, blending electronic and orchestral elements",
+    "genera":"Action"
+  },
+  {
+    "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/test/Heroic%20Triumph?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Rlc3QvSGVyb2ljIFRyaXVtcGgiLCJpYXQiOjE3MDE4NDIwMDYsImV4cCI6MTcwMjQ0NjgwNn0.wsa7-UtAtuvq61OHK83dCH0-S5L5y5jo7HQzVDvpGpI&t=2023-12-06T05%3A53%3A26.887Z",
+    "title": "Heroic Triumph",
+    "desc":"Craft a triumphant and heroic musical composition that captures the essence of a protagonist's success and victory against all odds",
+    "genera":"Action"
+  },
+  {
+    "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/test/Develop%20a%20comprehensive%20guide%20on%20addressing%20and%20curbing%20excessive%20dog%20barking,%20covering%20various%20training%20techniques,%20positive%20reinforcement%20methods,%20and%20potential%20environmental%20factors%20that%20may%20contribute%20to%20this%20behavior.?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Rlc3QvRGV2ZWxvcCBhIGNvbXByZWhlbnNpdmUgZ3VpZGUgb24gYWRkcmVzc2luZyBhbmQgY3VyYmluZyBleGNlc3NpdmUgZG9nIGJhcmtpbmcsIGNvdmVyaW5nIHZhcmlvdXMgdHJhaW5pbmcgdGVjaG5pcXVlcywgcG9zaXRpdmUgcmVpbmZvcmNlbWVudCBtZXRob2RzLCBhbmQgcG90ZW50aWFsIGVudmlyb25tZW50YWwgZmFjdG9ycyB0aGF0IG1heSBjb250cmlidXRlIHRvIHRoaXMgYmVoYXZpb3IuIiwiaWF0IjoxNzAxODQxOTU0LCJleHAiOjE3MDI0NDY3NTR9.Q3sKzjUpwPOv61kDe4I0YIphca70PY-XDGpOgiO2IiA&t=2023-12-06T05%3A52%3A34.965Z",
+    "title": "Fourth time is my lucky charm",
+    "desc":"Develop a comprehensive guide on addressing and curbing excessive dog barking, covering various training techniques, positive reinforcement methods, and potential environmental factors that may contribute to this behavior.",
+    "genera":"Action"
+  }
+]

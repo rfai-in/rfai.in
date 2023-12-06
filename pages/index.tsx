@@ -74,7 +74,7 @@ const Home: NextPage = () => {
               &#10022; No Sign in required
             </p>
             <p className="mx-auto text-lg leading-7 text-[#333] sm:text-xl">
-              &#10022; No Credit card required
+              &#10022; No audible watermark
             </p>
             {/* <p className="mx-auto mt-10 text-xl leading-7 text-[#333]">&#10040; No Sign in required</p> */}
           </div>

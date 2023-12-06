@@ -3,9 +3,10 @@ import React, { useEffect, useRef } from "react";
 import "plyr/dist/plyr.css";
 import Plyr from "plyr";
 
-const AudioPlayer: React.FC<{ url: string; title: string }> = ({
+const AudioPlayer: React.FC<{ url: string; title: string; genera: string; }> = ({
   url,
   title,
+  genera,
 }) => {
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
