@@ -27,7 +27,7 @@ export default function Music1() {
           placeholder="describe your music..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          className="sm:w-[60%] rounded-3xl text-md font-semibold px-4 py-4 border-2 border-gray-500 mt-10 sm:mb-10"
+          className="sm:w-[60%] rounded-3xl text-md font-semibold px-4 py-4 border-2 border-gray-400 mt-10 sm:mb-10"
         />
       </div>
 
