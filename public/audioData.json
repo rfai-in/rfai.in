@@ -1,26 +1,494 @@
 [
   {
-    "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/test/Epic%20Battle?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Rlc3QvRXBpYyBCYXR0bGUiLCJpYXQiOjE3MDE4NDE3NDMsImV4cCI6MTcwMjQ0NjU0M30.h1uzNIUMYUY4ZOtX85vPLnNfjj_MGyayeKR_OJa9nco&t=2023-12-06T05%3A49%3A04.080Z",
-    "title": "Epic Battle",
-    "desc": "Compose an intense and powerful action music piece suitable for epic battle scenes in movies or video games.",
-    "genera":"Action"
+      "title": "Jazz Improvisation",
+      "desc": "Improvise a jazz solo over a complex chord progression.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Jazz Improvisation__1e347fb1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvSmF6eiBJbXByb3Zpc2F0aW9uX18xZTM0N2ZiMS5tcDMiLCJpYXQiOjE3MDIxMzIwMTAsImV4cCI6MjcwMjEzMjAxMH0.DW8x_Z-MjJttUfIckKKynvADC7puZVEDMG6kSoE3QvQ",
+      "genera": "Jazz"
   },
   {
-    "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/test/High-Speed%20Chase?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Rlc3QvSGlnaC1TcGVlZCBDaGFzZSIsImlhdCI6MTcwMTg0MTk2OSwiZXhwIjoxNzAyNDQ2NzY5fQ.A9SlIyBc0DoyN2Uq-fX82w7fSOkiFETRkvtnfwRKWiI&t=2023-12-06T05%3A52%3A49.701Z",
-    "title": "High-Speed Chase",
-    "desc":"Create a dynamic and adrenaline-pumping music track for a high-speed chase sequence, blending electronic and orchestral elements",
-    "genera":"Action"
+      "title": "Electronic Dreams",
+      "desc": "Craft a futuristic electronic track with dreamy synthesizers and pulsating beats.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Electronic Dreams__1e347fb1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRWxlY3Ryb25pYyBEcmVhbXNfXzFlMzQ3ZmIxLm1wMyIsImlhdCI6MTcwMjEzMjAxMiwiZXhwIjoyNzAyMTMyMDEyfQ.tN7qlq46MBHaDgtHXZeEi6-Ii_7LzaFtX8uqGrqj-Ms",
+      "genera": "Electronic"
   },
   {
-    "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/test/Heroic%20Triumph?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Rlc3QvSGVyb2ljIFRyaXVtcGgiLCJpYXQiOjE3MDE4NDIwMDYsImV4cCI6MTcwMjQ0NjgwNn0.wsa7-UtAtuvq61OHK83dCH0-S5L5y5jo7HQzVDvpGpI&t=2023-12-06T05%3A53%3A26.887Z",
-    "title": "Heroic Triumph",
-    "desc":"Craft a triumphant and heroic musical composition that captures the essence of a protagonist's success and victory against all odds",
-    "genera":"Action"
+      "title": "Lyricist's Challenge",
+      "desc": "Write lyrics that tell a compelling story with unexpected twists.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Lyricist's Challenge__1e347fb1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvTHlyaWNpc3QncyBDaGFsbGVuZ2VfXzFlMzQ3ZmIxLm1wMyIsImlhdCI6MTcwMjEzMjEzOCwiZXhwIjoyNzAyMTMyMTM4fQ.l7kCxZybd2NSTmdSGt8F6DY4Z8Wxqtn8Xqy0F9hYXf0",
+      "genera": "Pop"
   },
   {
-    "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/test/Develop%20a%20comprehensive%20guide%20on%20addressing%20and%20curbing%20excessive%20dog%20barking,%20covering%20various%20training%20techniques,%20positive%20reinforcement%20methods,%20and%20potential%20environmental%20factors%20that%20may%20contribute%20to%20this%20behavior.?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Rlc3QvRGV2ZWxvcCBhIGNvbXByZWhlbnNpdmUgZ3VpZGUgb24gYWRkcmVzc2luZyBhbmQgY3VyYmluZyBleGNlc3NpdmUgZG9nIGJhcmtpbmcsIGNvdmVyaW5nIHZhcmlvdXMgdHJhaW5pbmcgdGVjaG5pcXVlcywgcG9zaXRpdmUgcmVpbmZvcmNlbWVudCBtZXRob2RzLCBhbmQgcG90ZW50aWFsIGVudmlyb25tZW50YWwgZmFjdG9ycyB0aGF0IG1heSBjb250cmlidXRlIHRvIHRoaXMgYmVoYXZpb3IuIiwiaWF0IjoxNzAxODQxOTU0LCJleHAiOjE3MDI0NDY3NTR9.Q3sKzjUpwPOv61kDe4I0YIphca70PY-XDGpOgiO2IiA&t=2023-12-06T05%3A52%3A34.965Z",
-    "title": "Fourth time is my lucky charm",
-    "desc":"Develop a comprehensive guide on addressing and curbing excessive dog barking, covering various training techniques, positive reinforcement methods, and potential environmental factors that may contribute to this behavior.",
-    "genera":"Action"
+      "title": "Folk Revival",
+      "desc": "Create a modern folk song that pays homage to traditional folk melodies.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Folk Revival__1e347fb1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRm9sayBSZXZpdmFsX18xZTM0N2ZiMS5tcDMiLCJpYXQiOjE3MDIxMzIxNDEsImV4cCI6MjcwMjEzMjE0MX0.L0OLMEo3bZUFHKedqBv_-CJPOoJFj7Ymr_eTHffWx3k",
+      "genera": "Folk"
+  },
+  {
+      "title": "Rock Anthem",
+      "desc": "Compose an anthemic rock track with powerful guitar riffs and a memorable chorus.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Rock Anthem__1e347fb1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvUm9jayBBbnRoZW1fXzFlMzQ3ZmIxLm1wMyIsImlhdCI6MTcwMjEzMjE0NCwiZXhwIjoyNzAyMTMyMTQ0fQ.8WePuL5-DKdPEIu78kO93U4pP9fAOvehkUpp-FDlicE",
+      "genera": "Rock"
+  },
+  {
+      "title": "Soulful Ballad",
+      "desc": "Write and perform a soulful ballad that showcases emotional depth and vocal prowess.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Soulful Ballad__1e347fb1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvU291bGZ1bCBCYWxsYWRfXzFlMzQ3ZmIxLm1wMyIsImlhdCI6MTcwMjEzMjE0NywiZXhwIjoyNzAyMTMyMTQ3fQ.Tr4fs85_KVbU3nPKg8kpE1bbu3fayN0K579o2DhRBnE",
+      "genera": "Soul"
+  },
+  {
+      "title": "African Grooves",
+      "desc": "Incorporate traditional African rhythms into a contemporary music piece.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/African Grooves__1e347fb1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQWZyaWNhbiBHcm9vdmVzX18xZTM0N2ZiMS5tcDMiLCJpYXQiOjE3MDIxMzIxNTAsImV4cCI6MjcwMjEzMjE1MH0.L5k3Z3Jh5NXth5TWRF-vAN2tHBZ1lEd5kjrarBQyLAA",
+      "genera": "World"
+  },
+  {
+      "title": "Cinematic Orchestration",
+      "desc": "Compose an orchestral piece suitable for a dramatic movie scene.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Cinematic Orchestration__512574c3.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQ2luZW1hdGljIE9yY2hlc3RyYXRpb25fXzUxMjU3NGMzLm1wMyIsImlhdCI6MTcwMjEzMjcxNCwiZXhwIjoyNzAyMTMyNzE0fQ.lGnHzc3M4C3aO1fFF72WaJ97kvbL4JgJ5xRmTrJSm9k",
+      "genera": "Film Score"
+  },
+  {
+      "title": "Experimental Fusion",
+      "desc": "Combine elements from different music genres to create an experimental and boundary-pushing composition.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Experimental Fusion__512574c3.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRXhwZXJpbWVudGFsIEZ1c2lvbl9fNTEyNTc0YzMubXAzIiwiaWF0IjoxNzAyMTMyNzE2LCJleHAiOjI3MDIxMzI3MTZ9.jbXeENoJ6laDfNorXt5yCKPbuCzhfdWGvhVxtiLJzWI",
+      "genera": "Experimental"
+  },
+  {
+      "title": "Reggae Vibes",
+      "desc": "Capture the essence of reggae with laid-back rhythms and socially conscious lyrics.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Reggae Vibes__512574c3.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvUmVnZ2FlIFZpYmVzX181MTI1NzRjMy5tcDMiLCJpYXQiOjE3MDIxMzI3MTcsImV4cCI6MjcwMjEzMjcxN30.r0x64Y-dY47qH91cFv1wz3C_YaCK82OaVyBcQ_gD1pM",
+      "genera": "Reggae"
+  },
+  {
+      "title": "Techno Odyssey",
+      "desc": "Produce a techno track that takes listeners on a hypnotic journey through soundscapes.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Techno Odyssey__512574c3.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvVGVjaG5vIE9keXNzZXlfXzUxMjU3NGMzLm1wMyIsImlhdCI6MTcwMjEzMjcxOSwiZXhwIjoyNzAyMTMyNzE5fQ.y57qabsGQ4b3s1NbJ9Ohbrkk4hwXCl1QGErnkErZSCA",
+      "genera": "Techno"
+  },
+  {
+      "title": "Country Storytelling",
+      "desc": "Write a country song that tells a compelling story with vivid imagery.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Country Storytelling__512574c3.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQ291bnRyeSBTdG9yeXRlbGxpbmdfXzUxMjU3NGMzLm1wMyIsImlhdCI6MTcwMjEzMjcyMCwiZXhwIjoyNzAyMTMyNzIwfQ.3Uyvm8r31Bq6R69zEMhf8Pso-JDim9b2IjmqfQC7qig",
+      "genera": "Country"
+  },
+  {
+      "title": "Blues Guitar Mastery",
+      "desc": "Showcase your mastery of blues guitar with a soul-stirring improvisational solo.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Blues Guitar Mastery__512574c3.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQmx1ZXMgR3VpdGFyIE1hc3RlcnlfXzUxMjU3NGMzLm1wMyIsImlhdCI6MTcwMjEzMjgyMCwiZXhwIjoyNzAyMTMyODIwfQ.KQA1qqHolDiCJGA_HbOZshEKBjxYAjb3xCXIgx7pRK0",
+      "genera": "Blues"
+  },
+  {
+      "title": "Latin Dance Explosion",
+      "desc": "Create an energetic Latin dance track that gets people on their feet.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Latin Dance Explosion__512574c3.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvTGF0aW4gRGFuY2UgRXhwbG9zaW9uX181MTI1NzRjMy5tcDMiLCJpYXQiOjE3MDIxMzI4MjEsImV4cCI6MjcwMjEzMjgyMX0.XSRsCxCSx8tUZQKmKqYLuJf1lBN3TC1gXgIdCBpTamc",
+      "genera": "Latin"
+  },
+  {
+      "title": "Funk Groove Machine",
+      "desc": "Build a funky groove with infectious basslines, tight drumming, and dynamic horn arrangements.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Funk Groove Machine__512574c3.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRnVuayBHcm9vdmUgTWFjaGluZV9fNTEyNTc0YzMubXAzIiwiaWF0IjoxNzAyMTMyODIyLCJleHAiOjI3MDIxMzI4MjJ9.TI55udCR06GzzVvr157mwHdsY9KfA2MYODWq8FwfPgU",
+      "genera": "Funk"
+  },
+  {
+      "title": "Piano Serenity",
+      "desc": "Compose a serene piano piece that induces a sense of calm and introspection.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Piano Serenity__512574c3.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvUGlhbm8gU2VyZW5pdHlfXzUxMjU3NGMzLm1wMyIsImlhdCI6MTcwMjEzMjgyMywiZXhwIjoyNzAyMTMyODIzfQ.UZd_WgLHVfOIOaIFlYonep_WdIdiCl65mF1bioB033A",
+      "genera": "Classical"
+  },
+  {
+      "title": "Indie Pop Uplift",
+      "desc": "Craft an indie pop song with uplifting melodies and introspective lyrics.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Indie Pop Uplift__512574c3.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvSW5kaWUgUG9wIFVwbGlmdF9fNTEyNTc0YzMubXAzIiwiaWF0IjoxNzAyMTMyODI1LCJleHAiOjI3MDIxMzI4MjV9.lFW7YV1PKCPNv1rSOynzWx3smr-TV1JoR_fo3Z2OCgg",
+      "genera": "Indie"
+  },
+  {
+      "title": "Choral Majesty",
+      "desc": "Write a choral composition that exudes grandeur and celestial beauty.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Choral Majesty__ea69b1a9.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQ2hvcmFsIE1hamVzdHlfX2VhNjliMWE5Lm1wMyIsImlhdCI6MTcwMjEzMzQ5MSwiZXhwIjoyNzAyMTMzNDkxfQ.pPcCogSg_7Pr5C3kqqhqKO5q5R7DUS0uDBDEG2ZZ964",
+      "genera": "Choral"
+  },
+  {
+      "title": "Gospel Power",
+      "desc": "Create a powerful gospel song with soul-stirring vocals and uplifting lyrics.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Gospel Power__ea69b1a9.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvR29zcGVsIFBvd2VyX19lYTY5YjFhOS5tcDMiLCJpYXQiOjE3MDIxMzM0OTQsImV4cCI6MjcwMjEzMzQ5NH0.YfmH2eynHsV6GgE09DqscMjfQeZeC1FbrfzYMOULk5g",
+      "genera": "Gospel"
+  },
+  {
+      "title": "Metal Shredding",
+      "desc": "Demonstrate your guitar shredding skills in a high-energy metal composition.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Metal Shredding__ea69b1a9.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvTWV0YWwgU2hyZWRkaW5nX19lYTY5YjFhOS5tcDMiLCJpYXQiOjE3MDIxMzM0OTcsImV4cCI6MjcwMjEzMzQ5N30.6qDKtcaymtFDg7Jt5oJlXQUUjG-fAavVZanb3zE7xNI",
+      "genera": "Metal"
+  },
+  {
+      "title": "Dubstep Revolution",
+      "desc": "Produce a groundbreaking dubstep track with heavy bass drops and intricate sound design.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Dubstep Revolution__ea69b1a9.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRHVic3RlcCBSZXZvbHV0aW9uX19lYTY5YjFhOS5tcDMiLCJpYXQiOjE3MDIxMzM1MDAsImV4cCI6MjcwMjEzMzUwMH0.WxfM-EWN1QKqThfxaNX6jtiTW6zbwYAn4GBBxP-Ob1A",
+      "genera": "Dubstep"
+  },
+  {
+      "title": "Saxophone Elegance",
+      "desc": "Feature the saxophone prominently in a jazzy composition with elegance and flair.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Saxophone Elegance__ea69b1a9.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvU2F4b3Bob25lIEVsZWdhbmNlX19lYTY5YjFhOS5tcDMiLCJpYXQiOjE3MDIxMzM1MDMsImV4cCI6MjcwMjEzMzUwM30.s8pIYVb7qzBsN6v1BQg82FWv1VhdcsCS8GRPaAZ4MaM",
+      "genera": "Jazz"
+  },
+  {
+      "title": "EDM Anthem",
+      "desc": "Craft an anthemic electronic dance music (EDM) track that ignites dance floors.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/EDM Anthem__ea69b1a9.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRURNIEFudGhlbV9fZWE2OWIxYTkubXAzIiwiaWF0IjoxNzAyMTMzNjUyLCJleHAiOjI3MDIxMzM2NTJ9.a9xJKQBnc9D3zgHcVOJbOVlO1Xow3m1FbUZgrhdVU6I",
+      "genera": "Electronic"
+  },
+  {
+      "title": "Bluegrass Joy",
+      "desc": "Capture the joyous spirit of bluegrass with fast-paced banjo picking and harmonious vocals.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Bluegrass Joy__ea69b1a9.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQmx1ZWdyYXNzIEpveV9fZWE2OWIxYTkubXAzIiwiaWF0IjoxNzAyMTMzNjU1LCJleHAiOjI3MDIxMzM2NTV9.cAlLxl_K3gBg9VNB4VxU83tz6utOXXHETnzDNhh3Yxw",
+      "genera": "Bluegrass"
+  },
+  {
+      "title": "Ambient Drone",
+      "desc": "Create an ambient drone piece that immerses listeners in a sonic atmosphere.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Ambient Drone__ea69b1a9.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQW1iaWVudCBEcm9uZV9fZWE2OWIxYTkubXAzIiwiaWF0IjoxNzAyMTMzNjU4LCJleHAiOjI3MDIxMzM2NTh9.K7XatxpXw8wYWLfOBL_c3m6l3vF94SB1eSTFkax6u-U",
+      "genera": "Ambient"
+  },
+  {
+      "title": "Pop Punk Rebellion",
+      "desc": "Compose a pop punk anthem with catchy hooks and rebellious lyrics.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Pop Punk Rebellion__ea69b1a9.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvUG9wIFB1bmsgUmViZWxsaW9uX19lYTY5YjFhOS5tcDMiLCJpYXQiOjE3MDIxMzM2NjEsImV4cCI6MjcwMjEzMzY2MX0.0BX6Ms8Z7LqaK9Nv27RDyv6zC0Uppfu_tm5-ScslwOI",
+      "genera": "Pop Punk"
+  },
+  {
+      "title": "Traditional Carnatic",
+      "desc": "Incorporate traditional Carnatic music elements into a contemporary composition.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Traditional Carnatic__ea69b1a9.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvVHJhZGl0aW9uYWwgQ2FybmF0aWNfX2VhNjliMWE5Lm1wMyIsImlhdCI6MTcwMjEzMzY2MywiZXhwIjoyNzAyMTMzNjYzfQ.2htgWqge8SsaIdqDC3Xm8evJp0h9rxh48nKTWd6pEM8",
+      "genera": "World"
+  },
+  {
+      "title": "Epic Movie Trailer",
+      "desc": "Compose a powerful and epic piece suitable for a movie trailer.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Epic Movie Trailer__eff10543.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRXBpYyBNb3ZpZSBUcmFpbGVyX19lZmYxMDU0My5tcDMiLCJpYXQiOjE3MDIxMzYyMDUsImV4cCI6MjcwMjEzNjIwNX0.iUhZqh1cQit8-Ibeg38ivYBIWWpV8n47cUqMOonlniQ",
+      "genera": "Film Score"
+  },
+  {
+      "title": "Noise Experimentation",
+      "desc": "Explore the world of noise music with unconventional soundscapes and textures.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Noise Experimentation__eff10543.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvTm9pc2UgRXhwZXJpbWVudGF0aW9uX19lZmYxMDU0My5tcDMiLCJpYXQiOjE3MDIxMzYyMDcsImV4cCI6MjcwMjEzNjIwN30.WQy6wnYvez_rTNfHKJI1z4RhMAX4EJg1lOHtEWdhue0",
+      "genera": "Experimental"
+  },
+  {
+      "title": "Ska Rhythm",
+      "desc": "Craft a ska-inspired track with upbeat rhythms and a lively horn section.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Ska Rhythm__eff10543.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvU2thIFJoeXRobV9fZWZmMTA1NDMubXAzIiwiaWF0IjoxNzAyMTM2MjEwLCJleHAiOjI3MDIxMzYyMTB9.R0uS953QRDy8E4cTmisvK0tttOhM40HI8V-UOWDzu6g",
+      "genera": "Ska"
+  },
+  {
+      "title": "Trance Journey",
+      "desc": "Produce a trance track that takes listeners on a hypnotic and uplifting journey.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Trance Journey__eff10543.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvVHJhbmNlIEpvdXJuZXlfX2VmZjEwNTQzLm1wMyIsImlhdCI6MTcwMjEzNjIxMiwiZXhwIjoyNzAyMTM2MjEyfQ.QB_sAeSYPCWsflBmzhPoJ79J1Ux5C4Yo0kdDOhY8seo",
+      "genera": "Trance"
+  },
+  {
+      "title": "Delta Blues Feel",
+      "desc": "Capture the authentic feel of Delta blues with raw vocals and slide guitar.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Delta Blues Feel__eff10543.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRGVsdGEgQmx1ZXMgRmVlbF9fZWZmMTA1NDMubXAzIiwiaWF0IjoxNzAyMTM2MjE1LCJleHAiOjI3MDIxMzYyMTV9.NXjim0z2qG6YpSMfQUcrJxwnfujkSR6H90iwKfSlzbs",
+      "genera": "Blues"
+  },
+  {
+      "title": "Tango Passion",
+      "desc": "Create a passionate tango composition with sultry melodies and rhythmic intensity.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Tango Passion__eff10543.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvVGFuZ28gUGFzc2lvbl9fZWZmMTA1NDMubXAzIiwiaWF0IjoxNzAyMTM2MzU5LCJleHAiOjI3MDIxMzYzNTl9.JTUAMO4wjJ3sw_fj85OYoKJXnUbGBeM1cKjkKw2eS3c",
+      "genera": "Latin"
+  },
+  {
+      "title": "Disco Fever",
+      "desc": "Craft a disco-infused track that brings back the funky and danceable vibes of the '70s.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Disco Fever__eff10543.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRGlzY28gRmV2ZXJfX2VmZjEwNTQzLm1wMyIsImlhdCI6MTcwMjEzNjM2MSwiZXhwIjoyNzAyMTM2MzYxfQ.Fs5WHVt2YzlYcxCL8_l3RDlXH4m9FYYI_jRIs0CLShc",
+      "genera": "Disco"
+  },
+  {
+      "title": "Fusion Sitar Magic",
+      "desc": "Blend traditional Indian sitar melodies with elements of fusion music.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Fusion Sitar Magic__eff10543.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRnVzaW9uIFNpdGFyIE1hZ2ljX19lZmYxMDU0My5tcDMiLCJpYXQiOjE3MDIxMzYzNjMsImV4cCI6MjcwMjEzNjM2M30.Hw71TR-eq3Cnq0vAyzsBPAa84JE-z_IrNr5BH0hrAzA",
+      "genera": "World"
+  },
+  {
+      "title": "Ethereal Synthwave",
+      "desc": "Produce an ethereal synthwave track with nostalgic '80s vibes and modern production.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Ethereal Synthwave__eff10543.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRXRoZXJlYWwgU3ludGh3YXZlX19lZmYxMDU0My5tcDMiLCJpYXQiOjE3MDIxMzYzNjYsImV4cCI6MjcwMjEzNjM2Nn0.LcRSMfA_hPzDkoEuvRj3YruBQaqVDOkNXxKWkVeWidE",
+      "genera": "Synthwave"
+  },
+  {
+      "title": "Blue Note Jazz",
+      "desc": "Improvise a jazz piece with the characteristic blue notes and expressive phrasing.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Blue Note Jazz__eff10543.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQmx1ZSBOb3RlIEphenpfX2VmZjEwNTQzLm1wMyIsImlhdCI6MTcwMjEzNjM2OCwiZXhwIjoyNzAyMTM2MzY4fQ.Z7bYCH7VGT66Eubl3z6vt8DjJqaEi9MzoIt4VtHUO1Q",
+      "genera": "Jazz"
+  },
+  {
+      "title": "Chillhop Grooves",
+      "desc": "Create a laid-back chillhop track with smooth beats and jazzy instrumental samples.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Chillhop Grooves__ff21c621.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQ2hpbGxob3AgR3Jvb3Zlc19fZmYyMWM2MjEubXAzIiwiaWF0IjoxNzAyMTQxMzY1LCJleHAiOjI3MDIxNDEzNjV9.IrSmBLrBmAk6g9o-UaDjWiY3e7FaiWKBC_VfpDxJo3o",
+      "genera": "Chillhop"
+  },
+  {
+      "title": "Motown Soul Revival",
+      "desc": "Revive the classic Motown sound with soulful vocals and tight rhythm sections.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Motown Soul Revival__ff21c621.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvTW90b3duIFNvdWwgUmV2aXZhbF9fZmYyMWM2MjEubXAzIiwiaWF0IjoxNzAyMTQxMzY3LCJleHAiOjI3MDIxNDEzNjd9.wbuS9GoBU-HGwojTIVZylKElywn1t6KdzKyYj0r3cHc",
+      "genera": "Soul"
+  },
+  {
+      "title": "Raga Fusion",
+      "desc": "Fuse traditional Indian ragas with contemporary musical elements in a unique composition.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Raga Fusion__ff21c621.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvUmFnYSBGdXNpb25fX2ZmMjFjNjIxLm1wMyIsImlhdCI6MTcwMjE0MTM2OCwiZXhwIjoyNzAyMTQxMzY4fQ.p25Y1bvybGPZqmmyq4mH816i3PXLv1H56mNpabZUb-Y",
+      "genera": "World"
+  },
+  {
+      "title": "Epic Choir Power",
+      "desc": "Compose a piece that features a powerful choir, conveying a sense of grandiosity.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Epic Choir Power__ff21c621.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRXBpYyBDaG9pciBQb3dlcl9fZmYyMWM2MjEubXAzIiwiaWF0IjoxNzAyMTQxMzY5LCJleHAiOjI3MDIxNDEzNjl9.fMxzU_XoQ53xK1Q9YKijXjOYsO0CJYFYr1bs0qUZ5Vk",
+      "genera": "Choral"
+  },
+  {
+      "title": "Gospel Choir Elation",
+      "desc": "Create a gospel-inspired composition that highlights the uplifting power of a choir.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Gospel Choir Elation__ff21c621.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvR29zcGVsIENob2lyIEVsYXRpb25fX2ZmMjFjNjIxLm1wMyIsImlhdCI6MTcwMjE0MTM3MSwiZXhwIjoyNzAyMTQxMzcxfQ.Sia-T4tGi6GaoRICXBXaaLNUnFvBnm9cwkxOHT3t_FI",
+      "genera": "Gospel"
+  },
+  {
+      "title": "Thrash Metal Fury",
+      "desc": "Demonstrate intense thrash metal energy with aggressive guitar riffs and rapid drumming.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Thrash Metal Fury__ff21c621.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvVGhyYXNoIE1ldGFsIEZ1cnlfX2ZmMjFjNjIxLm1wMyIsImlhdCI6MTcwMjE0MTQ5MiwiZXhwIjoyNzAyMTQxNDkyfQ.oQN-4Qjdi7SqaIprjDRaOoNBRAxQcB18Lj4dmz_t14k",
+      "genera": "Metal"
+  },
+  {
+      "title": "Deep House Vibes",
+      "desc": "Produce a deep house track with infectious grooves and soulful vocal samples.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Deep House Vibes__ff21c621.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRGVlcCBIb3VzZSBWaWJlc19fZmYyMWM2MjEubXAzIiwiaWF0IjoxNzAyMTQxNDk0LCJleHAiOjI3MDIxNDE0OTR9.lQ-PbhaIfGghnafQkO8P8a7Ae6D6W88JfewUapTSVr0",
+      "genera": "Deep House"
+  },
+  {
+      "title": "Americana Storytelling",
+      "desc": "Tell a captivating story through an Americana song with folk and country influences.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Americana Storytelling__ff21c621.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQW1lcmljYW5hIFN0b3J5dGVsbGluZ19fZmYyMWM2MjEubXAzIiwiaWF0IjoxNzAyMTQxNDk1LCJleHAiOjI3MDIxNDE0OTV9.8jQn1Cac0hqQHh-VQvJ0FdJ10cJy8jkDvEsEH229Uxo",
+      "genera": "Americana"
+  },
+  {
+      "title": "Slide Guitar Blues",
+      "desc": "Showcase the expressive qualities of slide guitar in a soulful blues composition.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Slide Guitar Blues__ff21c621.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvU2xpZGUgR3VpdGFyIEJsdWVzX19mZjIxYzYyMS5tcDMiLCJpYXQiOjE3MDIxNDE0OTYsImV4cCI6MjcwMjE0MTQ5Nn0.5VDw_8Tgu0Fmsj-82dWYerRfvbrTQtoShTJsDGhvAao",
+      "genera": "Blues"
+  },
+  {
+      "title": "Latin Jazz Fusion",
+      "desc": "Combine Latin rhythms with jazz improvisation in a vibrant and dynamic fusion.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Latin Jazz Fusion__ff21c621.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvTGF0aW4gSmF6eiBGdXNpb25fX2ZmMjFjNjIxLm1wMyIsImlhdCI6MTcwMjE0MTQ5NywiZXhwIjoyNzAyMTQxNDk3fQ.qCo7JV-jK-NFu_gGhE0sTA_KkmoS84uP_9W4nwbPZ-g",
+      "genera": "Latin Jazz"
+  },
+  {
+      "title": "Funk Bass Grooves",
+      "desc": "Build an infectious funk groove with a prominent and funky bassline.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Funk Bass Grooves__5a8f311f.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRnVuayBCYXNzIEdyb292ZXNfXzVhOGYzMTFmLm1wMyIsImlhdCI6MTcwMjE0MjQ1OSwiZXhwIjoyNzAyMTQyNDU5fQ.5-1HmxH4i3eHwg-Qdomb-FipvxNINBSy02DDbMNsQN0",
+      "genera": "Funk"
+  },
+  {
+      "title": "Classical Cello Emotion",
+      "desc": "Evoke deep emotions with a classical composition featuring the expressive cello.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Classical Cello Emotion__5a8f311f.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQ2xhc3NpY2FsIENlbGxvIEVtb3Rpb25fXzVhOGYzMTFmLm1wMyIsImlhdCI6MTcwMjE0MjQ2MSwiZXhwIjoyNzAyMTQyNDYxfQ.boqu77aGDbk0Vkhz5thR_AmY26Do1YN0y6UlPakFWk0",
+      "genera": "Classical"
+  },
+  {
+      "title": "Indie Folk Reverie",
+      "desc": "Create a dreamy indie folk song with introspective lyrics and atmospheric instrumentation.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Indie Folk Reverie__5a8f311f.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvSW5kaWUgRm9sayBSZXZlcmllX181YThmMzExZi5tcDMiLCJpYXQiOjE3MDIxNDI0NjIsImV4cCI6MjcwMjE0MjQ2Mn0.8bEI6UKlYmwn698-M43la4PtT8vqPFixtfLCt0aKDv8",
+      "genera": "Indie Folk"
+  },
+  {
+      "title": "Acapella Harmony",
+      "desc": "Craft a harmonious acapella piece that showcases vocal precision and blending.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Acapella Harmony__5a8f311f.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQWNhcGVsbGEgSGFybW9ueV9fNWE4ZjMxMWYubXAzIiwiaWF0IjoxNzAyMTQyNDYzLCJleHAiOjI3MDIxNDI0NjN9.lFJZD77m7zfrhruvMeit9fRT9xYqip05HBJd47s1EiI",
+      "genera": "Acapella"
+  },
+  {
+      "title": "Neo-Soul Groove",
+      "desc": "Develop a smooth neo-soul groove with soulful vocals and tight rhythm section.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Neo-Soul Groove__5a8f311f.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvTmVvLVNvdWwgR3Jvb3ZlX181YThmMzExZi5tcDMiLCJpYXQiOjE3MDIxNDI0NjUsImV4cCI6MjcwMjE0MjQ2NX0.RWQ1cPe2SFkBJYGljA-aBDoeF2dJZ3_ZqUw6ZKOT4yg",
+      "genera": "Neo-Soul"
+  },
+  {
+      "title": "Celtic Folk Journey",
+      "desc": "Take listeners on a musical journey with a Celtic folk composition full of lively melodies.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Celtic Folk Journey__5a8f311f.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQ2VsdGljIEZvbGsgSm91cm5leV9fNWE4ZjMxMWYubXAzIiwiaWF0IjoxNzAyMTQyNTg3LCJleHAiOjI3MDIxNDI1ODd9.CnmNYcOmk6c5RP9CiCRP_QDuk1TE_46GgOBDFvewNdg",
+      "genera": "Celtic"
+  },
+  {
+      "title": "Epic Drum Ensemble",
+      "desc": "Compose a piece featuring a powerful ensemble of drums for an epic percussive experience.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Epic Drum Ensemble__5a8f311f.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRXBpYyBEcnVtIEVuc2VtYmxlX181YThmMzExZi5tcDMiLCJpYXQiOjE3MDIxNDI1ODgsImV4cCI6MjcwMjE0MjU4OH0.HoqhJAW3ZJpjiY6QhHwEaA35nknb-3IomqdZzspH9hI",
+      "genera": "Percussion"
+  },
+  {
+      "title": "Experimental Soundscapes",
+      "desc": "Explore unconventional soundscapes and textures in an experimental music piece.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Experimental Soundscapes__5a8f311f.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRXhwZXJpbWVudGFsIFNvdW5kc2NhcGVzX181YThmMzExZi5tcDMiLCJpYXQiOjE3MDIxNDI1ODksImV4cCI6MjcwMjE0MjU4OX0.F0J-d7Lz0h5Xi-YxbgruJDR-ptekCXE3lKHAev1376I",
+      "genera": "Experimental"
+  },
+  {
+      "title": "Reggaeton Rhythms",
+      "desc": "Craft a reggaeton track with infectious rhythms and danceable beats.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Reggaeton Rhythms__5a8f311f.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvUmVnZ2FldG9uIFJoeXRobXNfXzVhOGYzMTFmLm1wMyIsImlhdCI6MTcwMjE0MjU5MSwiZXhwIjoyNzAyMTQyNTkxfQ.GZ7fxxsONFrO7pQ-LfkGJqDzvakBwPBZ-B4RW2NkoFE",
+      "genera": "Reggaeton"
+  },
+  {
+      "title": "House Party Anthem",
+      "desc": "Produce a high-energy house track that's perfect for igniting a dance party.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/House Party Anthem__5a8f311f.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvSG91c2UgUGFydHkgQW50aGVtX181YThmMzExZi5tcDMiLCJpYXQiOjE3MDIxNDI1OTIsImV4cCI6MjcwMjE0MjU5Mn0.KrmsBwun_Fg0f-r1x6fK0u3dJY2k_gKRH6fn4CbXwz8",
+      "genera": "House"
+  },
+  {
+      "title": "Country Blues Feel",
+      "desc": "Capture the raw and authentic feel of country blues with soulful vocals and acoustic instruments.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Country Blues Feel__6231a448.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQ291bnRyeSBCbHVlcyBGZWVsX182MjMxYTQ0OC5tcDMiLCJpYXQiOjE3MDIxNDMwNTgsImV4cCI6MjcwMjE0MzA1OH0.ozeci9FjUkv-bXVHW427mxlEDoi6Wyt5hNG2V2fU07c",
+      "genera": "Country Blues"
+  },
+  {
+      "title": "Slide Trombone Jazz",
+      "desc": "Feature the slide trombone in a jazz composition with expressive phrasing and improvisation.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Slide Trombone Jazz__6231a448.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvU2xpZGUgVHJvbWJvbmUgSmF6el9fNjIzMWE0NDgubXAzIiwiaWF0IjoxNzAyMTQzMDYxLCJleHAiOjI3MDIxNDMwNjF9.pFgeGgTR5pDbmmSL47b9RAIqEqc3J71bX2ASKs2Pm1I",
+      "genera": "Jazz"
+  },
+  {
+      "title": "Chillout Lounge Vibes",
+      "desc": "Create a chillout lounge track with soothing melodies and ambient textures.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Chillout Lounge Vibes__6231a448.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQ2hpbGxvdXQgTG91bmdlIFZpYmVzX182MjMxYTQ0OC5tcDMiLCJpYXQiOjE3MDIxNDMwNjQsImV4cCI6MjcwMjE0MzA2NH0.CaqM4H47ZJilwEA4Bz0E2OAL8LjVH7AKCyOIwo1ZwIg",
+      "genera": "Chillout"
+  },
+  {
+      "title": "Motivational Anthem",
+      "desc": "Compose an uplifting anthem with motivational lyrics and dynamic instrumentals.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Motivational Anthem__6231a448.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvTW90aXZhdGlvbmFsIEFudGhlbV9fNjIzMWE0NDgubXAzIiwiaWF0IjoxNzAyMTQzMDY2LCJleHAiOjI3MDIxNDMwNjZ9.MMt1hvlXpU3OFnn9xOeTgwrEiQo0ZQbkXa52ezOJL3Q",
+      "genera": "Pop"
+  },
+  {
+      "title": "Flamenco Fusion",
+      "desc": "Fuse traditional flamenco with elements of fusion to create a dynamic and passionate composition.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Flamenco Fusion__6231a448.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRmxhbWVuY28gRnVzaW9uX182MjMxYTQ0OC5tcDMiLCJpYXQiOjE3MDIxNDMwNjksImV4cCI6MjcwMjE0MzA2OX0.46N1ccIQBGtR1oSRezAH-7hXjcUdrwG__mkbEAK8rNQ",
+      "genera": "World"
+  },
+  {
+      "title": "Epic Synth Buildup",
+      "desc": "Build anticipation and excitement with an epic synth-based composition.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Epic Synth Buildup__6231a448.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRXBpYyBTeW50aCBCdWlsZHVwX182MjMxYTQ0OC5tcDMiLCJpYXQiOjE3MDIxNDMyMTgsImV4cCI6MjcwMjE0MzIxOH0.P1LklCQgx83VYloqLb3x3ztanRtDw2U4FdnCzTukcQs",
+      "genera": "Electronic"
+  },
+  {
+      "title": "Ragtime Nostalgia",
+      "desc": "Capture the nostalgic feel of ragtime with upbeat piano melodies and syncopated rhythms.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Ragtime Nostalgia__6231a448.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvUmFndGltZSBOb3N0YWxnaWFfXzYyMzFhNDQ4Lm1wMyIsImlhdCI6MTcwMjE0MzIyMSwiZXhwIjoyNzAyMTQzMjIxfQ.sO8vUKBa-SSgCNCqqon4_JQr0UVYLf2NlxLwO0ICkys",
+      "genera": "Ragtime"
+  },
+  {
+      "title": "Bluesy Harmonica Magic",
+      "desc": "Showcase the magic of blues harmonica in a soulful and expressive blues composition.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Bluesy Harmonica Magic__6231a448.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQmx1ZXN5IEhhcm1vbmljYSBNYWdpY19fNjIzMWE0NDgubXAzIiwiaWF0IjoxNzAyMTQzMjI0LCJleHAiOjI3MDIxNDMyMjR9.Kz-WJ0WgBmpiNyHet7h4UvQER8yddRi8iJ3-w3kwLdg",
+      "genera": "Blues"
+  },
+  {
+      "title": "Latin Percussion Fiesta",
+      "desc": "Create a lively and rhythmic composition featuring a variety of Latin percussion instruments.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Latin Percussion Fiesta__6231a448.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvTGF0aW4gUGVyY3Vzc2lvbiBGaWVzdGFfXzYyMzFhNDQ4Lm1wMyIsImlhdCI6MTcwMjE0MzIyNywiZXhwIjoyNzAyMTQzMjI3fQ.Op9ufzGj65wBelaVIXrwnl5Q6xOyivDUvnKx4_quGEY",
+      "genera": "Latin"
+  },
+  {
+      "title": "Ska Punk Rebellion",
+      "desc": "Blend ska and punk elements in an energetic composition with rebellious lyrics.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Ska Punk Rebellion__6231a448.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvU2thIFB1bmsgUmViZWxsaW9uX182MjMxYTQ0OC5tcDMiLCJpYXQiOjE3MDIxNDMyMzAsImV4cCI6MjcwMjE0MzIzMH0.zbiH1FpLr3pKnViDkLWKcmVWz6PVUysSfjENs83bGXM",
+      "genera": "Ska Punk"
+  },
+  {
+      "title": "Trance Uplift",
+      "desc": "Produce a trance track that uplifts the spirits and creates a euphoric atmosphere.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Trance Uplift__757a954e.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvVHJhbmNlIFVwbGlmdF9fNzU3YTk1NGUubXAzIiwiaWF0IjoxNzAyMTQzNzUyLCJleHAiOjI3MDIxNDM3NTJ9.v4nn8Pgfuv_M7OO5uORxSCLWOJrU36ba02C-0JJe9_U",
+      "genera": "Trance"
+  },
+  {
+      "title": "Delta Blues Guitar Mastery",
+      "desc": "Showcase mastery of Delta blues guitar with expressive solos and authentic blues phrasing.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Delta Blues Guitar Mastery__757a954e.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRGVsdGEgQmx1ZXMgR3VpdGFyIE1hc3RlcnlfXzc1N2E5NTRlLm1wMyIsImlhdCI6MTcwMjE0Mzc1NCwiZXhwIjoyNzAyMTQzNzU0fQ.Fquyt9hO01UcGdPNjVRjBv8DL1IhDFN4rnhP9XsqFl4",
+      "genera": "Blues"
+  },
+  {
+      "title": "Tango Passion",
+      "desc": "Create a passionate tango composition with sultry melodies and rhythmic intensity.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Tango Passion__757a954e.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvVGFuZ28gUGFzc2lvbl9fNzU3YTk1NGUubXAzIiwiaWF0IjoxNzAyMTQzNzU2LCJleHAiOjI3MDIxNDM3NTZ9.zCoIGXpQCtetyhq9S29CA2xSlqLS1DBxTGT9EminoL0",
+      "genera": "Latin"
+  },
+  {
+      "title": "Disco Fever",
+      "desc": "Craft a disco-infused track that brings back the funky and danceable vibes of the '70s.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Disco Fever__757a954e.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRGlzY28gRmV2ZXJfXzc1N2E5NTRlLm1wMyIsImlhdCI6MTcwMjE0Mzc1OSwiZXhwIjoyNzAyMTQzNzU5fQ.bZWzNS9sDL2G__WtwRq5MkGrbNy5aLijT10jk_UWdPY",
+      "genera": "Disco"
+  },
+  {
+      "title": "Fusion Sitar Magic",
+      "desc": "Blend traditional Indian sitar melodies with elements of fusion music.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Fusion Sitar Magic__757a954e.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRnVzaW9uIFNpdGFyIE1hZ2ljX183NTdhOTU0ZS5tcDMiLCJpYXQiOjE3MDIxNDM3NjEsImV4cCI6MjcwMjE0Mzc2MX0.lA1Ghyz4PcJf9MN0OlgUjdKP5O9MxfpeUyn9hswtPNA",
+      "genera": "World"
+  },
+  {
+      "title": "Ethereal Synthwave",
+      "desc": "Produce an ethereal synthwave track with nostalgic '80s vibes and modern production.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Ethereal Synthwave__757a954e.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRXRoZXJlYWwgU3ludGh3YXZlX183NTdhOTU0ZS5tcDMiLCJpYXQiOjE3MDIxNDM5MTEsImV4cCI6MjcwMjE0MzkxMX0.myxNFiaT77y8Ek0N111xCxsrlk6LNzICL2O9Fa4A5ew",
+      "genera": "Synthwave"
+  },
+  {
+      "title": "Blue Note Jazz",
+      "desc": "Improvise a jazz piece with the characteristic blue notes and expressive phrasing.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Blue Note Jazz__757a954e.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQmx1ZSBOb3RlIEphenpfXzc1N2E5NTRlLm1wMyIsImlhdCI6MTcwMjE0MzkxNCwiZXhwIjoyNzAyMTQzOTE0fQ.mqN3-0yOsFBgNu-xspRr1ljWyUTqF5YdQsvIQPVBz8Y",
+      "genera": "Jazz"
+  },
+  {
+      "title": "Chillhop Grooves",
+      "desc": "Create a laid-back chillhop track with smooth beats and jazzy instrumental samples.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Chillhop Grooves__757a954e.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQ2hpbGxob3AgR3Jvb3Zlc19fNzU3YTk1NGUubXAzIiwiaWF0IjoxNzAyMTQzOTE3LCJleHAiOjI3MDIxNDM5MTd9.tTSpz9RdC15AwhiL29YZA111JZgytxt-0fXemdr3gP8",
+      "genera": "Chillhop"
+  },
+  {
+      "title": "Motown Soul Revival",
+      "desc": "Revive the classic Motown sound with soulful vocals and tight rhythm sections.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Motown Soul Revival__757a954e.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvTW90b3duIFNvdWwgUmV2aXZhbF9fNzU3YTk1NGUubXAzIiwiaWF0IjoxNzAyMTQzOTIwLCJleHAiOjI3MDIxNDM5MjB9.MchPblAfoJFBFoWAvj37OSYvxq8tqAaR2qNQ19YjrTk",
+      "genera": "Soul"
+  },
+  {
+      "title": "Raga Fusion",
+      "desc": "Fuse traditional Indian ragas with contemporary musical elements in a unique composition.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Raga Fusion__757a954e.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvUmFnYSBGdXNpb25fXzc1N2E5NTRlLm1wMyIsImlhdCI6MTcwMjE0MzkyMywiZXhwIjoyNzAyMTQzOTIzfQ.6kw6qHoJvB5j5YwgdfXwjZQli48ZymmIH0ZJ6iAP_tQ",
+      "genera": "World"
+  },
+  {
+      "title": "Melodic Journeys",
+      "desc": "Compose a piece inspired by a memorable journey, capturing the emotions and landscapes along the way.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Melodic Journeys__ac9e1af3.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvTWVsb2RpYyBKb3VybmV5c19fYWM5ZTFhZjMubXAzIiwiaWF0IjoxNzAyMTUxMjQ5LCJleHAiOjI3MDIxNTEyNDl9.b9l1__MkzcZOS3AOfz9MFow-RIa5j5Yr_5QyRRxUqKo",
+      "genera": "Classical"
+  },
+  {
+      "title": "Urban Beats Exploration",
+      "desc": "Create a rhythmic composition that reflects the energy and diversity of urban life.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Urban Beats Exploration__c43580f2.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvVXJiYW4gQmVhdHMgRXhwbG9yYXRpb25fX2M0MzU4MGYyLm1wMyIsImlhdCI6MTcwMjE1MTI1MiwiZXhwIjoyNzAyMTUxMjUyfQ.6wylTXQbSIcKsX3HdwrFVR6RrHGSzBS5nip4qW5P9ZE",
+      "genera": "Electronic"
+  },
+  {
+      "title": "Soulful Reflections",
+      "desc": "Craft a song that conveys deep emotions and introspective moments through soulful melodies and lyrics.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Soulful Reflections__6f2d64ff.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvU291bGZ1bCBSZWZsZWN0aW9uc19fNmYyZDY0ZmYubXAzIiwiaWF0IjoxNzAyMTUxMjU0LCJleHAiOjI3MDIxNTEyNTR9.qCw9mavufH3-m8Aw6gSqu3JCwthaDqrOzpQzbLGR9RQ",
+      "genera": "R&B"
+  },
+  {
+      "title": "Celestial Symphony",
+      "desc": "Imagine a musical representation of the cosmos, blending orchestral elements to evoke the vastness of space.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Celestial Symphony__455d8266.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvQ2VsZXN0aWFsIFN5bXBob255X180NTVkODI2Ni5tcDMiLCJpYXQiOjE3MDIxNTEyNTYsImV4cCI6MjcwMjE1MTI1Nn0.q0ze8A039_erzXTXYoL9dRV2G3qaLQ9UG8IRDs1rIqQ",
+      "genera": "Symphonic"
+  },
+  {
+      "title": "Experimental Fusion Groove",
+      "desc": "Fuse together elements from different musical genres to create a unique and experimental groove.",
+      "url": "https://quelutgylzztkdaisfbh.supabase.co/storage/v1/object/sign/rfai-audio-files/prod/Experimental Fusion Groove__dad4e7a5.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZmFpLWF1ZGlvLWZpbGVzL3Byb2QvRXhwZXJpbWVudGFsIEZ1c2lvbiBHcm9vdmVfX2RhZDRlN2E1Lm1wMyIsImlhdCI6MTcwMjE1MTI1OCwiZXhwIjoyNzAyMTUxMjU4fQ.i_8ErM_Jm_W4EI7bHPBdAjySxtfdowUTf4lLvQ-Cx28",
+      "genera": "Fusion"
   }
 ]

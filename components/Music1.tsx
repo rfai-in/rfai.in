@@ -8,11 +8,15 @@ export default function Music1() {
   const [searchTerm, setSearchTerm] = useState("");
 
   // Filter audioData based on the search term
-  const filteredAudioData = audioData.filter((audio) =>
+  const reversedAudioData = [...audioData].reverse();
+
+  const filteredAudioData = reversedAudioData.filter((audio) =>
     audio.desc.toLowerCase().includes(searchTerm.toLowerCase()) ||
     audio.genera.toLowerCase().includes(searchTerm.toLowerCase()) ||
     audio.title.toLowerCase().includes(searchTerm.toLowerCase())
   );
+
+  const limitedAudioData = filteredAudioData.slice(0, 12);
 
   return (
     <div>
@@ -27,12 +31,12 @@ export default function Music1() {
           placeholder="describe your music..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          className="sm:w-[60%] rounded-3xl text-md font-semibold px-4 py-4 border-2 border-gray-400 mt-10 sm:mb-10"
+          className="sm:w-[60%] rounded-xl shadow-xl text-md font-semibold px-4 py-4 border-2 border-gray-400 mt-10 sm:mb-10"
         />
       </div>
 
-      <div className="grid max-w-full p-5 sm:grid-cols-2 sm:gap-10">
-        {filteredAudioData.map((audio, index) => (
+      <div className="grid max-w-full p-5 sm:grid-cols-3 sm:gap-10">
+        {limitedAudioData.map((audio, index) => (
           <Suspense key={index} fallback={<div>Loading...</div>}>
             <AudioPlayer2 url={audio.url} title={audio.title} genera={audio.genera}/>
           </Suspense>

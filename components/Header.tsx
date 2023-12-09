@@ -14,7 +14,7 @@ export default function Header() {
       <div className="w-full mx-auto md:px-12 px-8 max-w-6xl">
         <div
           x-data="{ open: false }"
-          className="relative flex flex-col max-w-7xl mx-auto md:items-center md:justify-between md:flex-row md:px-6"
+          className="relative flex flex-col max-w-full mx-auto md:items-center md:justify-between md:flex-row md:px-6"
         >
           <div className="flex flex-row items-center justify-between lg:justify-start">
           <Link href="/" className="flex space-x-2">
