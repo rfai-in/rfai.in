@@ -10,18 +10,18 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <link rel="icon" href="/favicon.svg" />
-          <meta name="description" content="Enhance AI with Synthetic data" />
+          <meta name="description" content="Royalty Free AI Generated Music" />
           <meta property="og:site_name" content="voxlab.co" />
           <meta
             property="og:description"
             content="Free AI Powered Image Processing Tools."
           />
-          <meta property="og:title" content="Enhance AI with Synthetic data" />
+          <meta property="og:title" content="Royalty Free AI Generated Music" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content="Enhance AI with Synthetic data" />
+          <meta name="twitter:title" content="Royalty Free AI Generated Music" />
           <meta
             name="twitter:description"
-            content="Enhance AI with Synthetic data"
+            content="Royalty Free AI Generated Music"
           />
           {/* Add Image here for a preview */}
           <meta
