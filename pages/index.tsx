@@ -61,20 +61,21 @@ const Home: NextPage = () => {
           <h1 className="font-display mx-auto max-w-4xl text-center text-4xl font-bold tracking-normal text-slate-900 sm:text-6xl">
             <span className="relative text-[#333] sm:whitespace-nowrap">
               <span className="relative mr-2">
-              Royalty Free AI Generated Music
+              Royalty-Free AI Generated Music
               </span>
             </span>
           </h1>
 
           <div className="mt-5 grid gap-2 sm:mt-10 sm:grid-cols-3">
             <p className="mx-auto text-lg leading-7 text-[#333] sm:text-xl">
-              &#10022; Umlimited music downloads
+            🎵 Umlimited music downloads
             </p>
             <p className="mx-auto text-lg leading-7 text-[#333] sm:text-xl">
-              &#10022; No Sign in required
+            🚀  No Sign in required
             </p>
             <p className="mx-auto text-lg leading-7 text-[#333] sm:text-xl">
-              &#10022; No audible watermark
+              {/* &#10022; No audible watermark */}
+              🔊 No audible watermark
             </p>
             {/* <p className="mx-auto mt-10 text-xl leading-7 text-[#333]">&#10040; No Sign in required</p> */}
           </div>
@@ -140,6 +141,12 @@ const Home: NextPage = () => {
         </div> */}
       </main>
       <Music1 />
+
+      {/* <p>
+      If you think Plyr's good,
+      <a href="https://twitter.com/intent/tweet?text=A+simple+HTML5+media+player+with+custom+controls+and+WebVTT+captions.&amp;url=http%3A%2F%2Fplyr.io&amp;via=Sam_Potts" target="_blank" className="link js-shr">tweet it</a>
+      👍
+      </p> */}
       {/* <Testimonials /> */}
       {/* <Datasets /> */}
       {/* <Features1/> */}
