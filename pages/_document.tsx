@@ -26,11 +26,11 @@ class MyDocument extends Document {
           {/* Add Image here for a preview */}
           <meta
             property="og:image"
-            // content="https://ik.imagekit.io/uti9laa1e/Screenshot%20from%202023-11-04%2012.31.00.png?updatedAt=1699081306184"
+            content="https://ik.imagekit.io/uti9laa1e/rfai?updatedAt=1702218586543"
           />
           <meta
             name="twitter:image"
-            // content="https://ik.imagekit.io/uti9laa1e/Screenshot%20from%202023-11-04%2012.31.00.png?updatedAt=1699081306184"
+            content="https://ik.imagekit.io/uti9laa1e/rfai?updatedAt=1702218586543"
           />
 
           {isProd && (
