@@ -68,7 +68,7 @@ const Home: NextPage = () => {
 
           <div className="mt-5 grid gap-2 sm:mt-10 sm:grid-cols-3">
             <p className="mx-auto text-lg leading-7 text-[#333] sm:text-xl">
-            🎵 Umlimited music downloads
+            🎵 Unlimited music downloads
             </p>
             <p className="mx-auto text-lg leading-7 text-[#333] sm:text-xl">
             🚀  No Sign in required

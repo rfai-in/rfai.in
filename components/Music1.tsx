@@ -4,6 +4,9 @@ import React, { lazy, Suspense, useState } from "react";
 
 const AudioPlayer2 = lazy(() => import("./AudioPlayer2"));
 
+// to not limit how many to render when search is not empty
+// https://chat.openai.com/share/cc9b37c3-9516-4739-87e9-424f4e2093db
+
 export default function Music1() {
   const [searchTerm, setSearchTerm] = useState("");
 
