@@ -30,12 +30,25 @@ export default function Music1() {
         </p> */}
         {/* Add the search input */}
         <input
-          type="text"
+          type={"search"}
           placeholder="describe your music..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           className="sm:w-[60%] rounded-xl shadow-xl text-md font-semibold px-4 py-4 border-2 border-gray-400 mt-10 sm:mb-10"
         />
+        
+        <div className="mb-5 flex-col hidden lg:block">
+          
+          <a onClick={(e) => setSearchTerm("Indie Folk")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Indie Folk</a>
+          <a onClick={(e) => setSearchTerm("Classical")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Classical</a>
+          <a onClick={(e) => setSearchTerm("Jazz")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Jazz</a>
+          <a onClick={(e) => setSearchTerm("Funk")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Funk</a>
+          <a onClick={(e) => setSearchTerm("World")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">World</a>
+          <a onClick={(e) => setSearchTerm("Ambient")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Ambient</a>
+          {/* <a onClick={(e) => setSearchTerm("Indie Folk")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">Indie Folk</a>
+          <a onClick={(e) => setSearchTerm("Indie Folk")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">Indie Folk</a> */}
+
+        </div>
       </div>
 
       <div className="grid max-w-full p-5 sm:grid-cols-3 sm:gap-10">
