@@ -39,12 +39,12 @@ export default function Music1() {
         
         <div className="mb-5 flex-col hidden lg:block">
           
-          <a onClick={(e) => setSearchTerm("Indie Folk")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Indie Folk</a>
-          <a onClick={(e) => setSearchTerm("Classical")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Classical</a>
-          <a onClick={(e) => setSearchTerm("Jazz")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Jazz</a>
-          <a onClick={(e) => setSearchTerm("Funk")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Funk</a>
-          <a onClick={(e) => setSearchTerm("World")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">World</a>
-          <a onClick={(e) => setSearchTerm("Ambient")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Ambient</a>
+          <span onClick={(e) => setSearchTerm("Indie Folk")} className="bg-gray-100 ml-5 cursor-pointer text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Indie Folk</span>
+          <span onClick={(e) => setSearchTerm("Classical")} className="bg-gray-100 ml-5 cursor-pointer text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Classical</span>
+          <span onClick={(e) => setSearchTerm("Jazz")} className="bg-gray-100 ml-5 cursor-pointer text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Jazz</span>
+          <span onClick={(e) => setSearchTerm("Funk")} className="bg-gray-100 ml-5 cursor-pointer text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Funk</span>
+          <span onClick={(e) => setSearchTerm("World")} className="bg-gray-100 ml-5 cursor-pointer text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">World</span>
+          <span onClick={(e) => setSearchTerm("Ambient")} className="bg-gray-100 ml-5 cursor-pointer text-gray-800 text-lg font-medium me-2 px-2.5 py-1 rounded-lg dark:bg-gray-700 dark:text-gray-300">Ambient</span>
           {/* <a onClick={(e) => setSearchTerm("Indie Folk")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">Indie Folk</a>
           <a onClick={(e) => setSearchTerm("Indie Folk")} className="bg-gray-100 ml-5 text-gray-800 text-lg font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">Indie Folk</a> */}
 
