@@ -1,8 +1,10 @@
 import Document, { Head, Html, Main, NextScript } from "next/document";
 // Importing the Google Analytics Measurement ID from the environment variable
-const gtag = `https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID}`;
+// const gtag = `https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID}`;
 
-const isProd = process.env.NODE_ENV === "production";
+// const isProd = process.env.NODE_ENV === "production";
+
+import GoogleAnalyticsScript from "../components/GoogleAnalytics";
 
 class MyDocument extends Document {
   render() {
@@ -33,11 +35,9 @@ class MyDocument extends Document {
             content="https://ik.imagekit.io/uti9laa1e/rfai?updatedAt=1702218586543"
           />
 
-          {isProd && (
+          {/* {isProd && (
             <>
-              {/* Google Analytics Measurement ID*/}
               <script async src={gtag} />
-              {/* {/ Inject the GA tracking code with the Measurement ID /} */}
               <script
                 dangerouslySetInnerHTML={{
                   __html: `
@@ -51,7 +51,10 @@ class MyDocument extends Document {
                 }}
               />
             </>
-          )}
+          )} */}
+
+          <GoogleAnalyticsScript />
+          
         </Head>
         <body className="">
           <Main />
