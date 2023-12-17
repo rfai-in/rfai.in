@@ -64,7 +64,7 @@ export default function Header() {
             </button> */}
           </div>
 
-          <nav
+          {/* <nav
             className={`flex-col items-center flex-grow ${
               open ? "flex" : "hidden"
             } md:pb-0 md:flex md:justify-end md:flex-row mt-10 sm:mt-0`}
@@ -73,34 +73,34 @@ export default function Header() {
               className="px-2 lg:px-6 py-2 md:px-3 text-lg font-medium text-black hover:text-accent-400 lg:ml-auto"
               href="/#why"
             >
-              {/* Why Voxlab? */}
+              Why Voxlab?
             </a>
 
-            {/* <details className="dropdown lg:ml-auto">
+            <details className="dropdown lg:ml-auto">
               <summary className="m-1 btn">Services</summary>
               <ul className="p-2  menu dropdown-content z-[1] bg-base-100">
                 <li><a>Item 1</a></li>
                 <li><a>Item 2</a></li>
               </ul>
-            </details> */}
+            </details>
             
             <a
               className="px-2 lg:px-6 py-2 md:px-3 text-lg font-medium text-black hover:text-accent-400"
               href="/#solutions"
             >
-              {/* Solutions */}
+              Solutions
             </a>
             
-            {/* <a
+            <a
               className="px-2 lg:px-6 py-2 md:px-3 text-lg font-medium text-black hover:text-accent-400"
               href="#use-cases"
             >
               Use Cases
-            </a> */}
+            </a>
 
 
 
-            {/* <div className="inline-flex items-center gap-2 list-none lg:ml-auto">
+            <div className="inline-flex items-center gap-2 list-none lg:ml-auto">
               <a
                 className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium text-white bg-[#333] hover:text-black rounded-lg group focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 hover:bg-slate-50 active:bg-slate-200 active:text-accent-400 focus-visible:outline-black"
                 href="https://tally.so/r/m6e6EA"
@@ -109,8 +109,8 @@ export default function Header() {
                 >
                 Contact Us
               </a>
-            </div> */}
-          </nav>
+            </div>
+          </nav> */}
         </div>
 
         {/* <div>
