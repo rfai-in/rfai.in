@@ -3,6 +3,8 @@ import audioData from "../public/audioData.json";
 
 const AudioPlayer2 = lazy(() => import("./AudioPlayer2"));
 
+// https://chat.openai.com/share/6c62cb05-7926-48f7-99fb-be892912893f
+
 const itemsPerPage = 12;
 
 export default function Music1() {
@@ -80,22 +82,25 @@ export default function Music1() {
       </div>
 
       <div className="grid max-w-full p-5 sm:grid-cols-3 sm:gap-10">
-        {allLoadedAudioData.map((audio, index) => (
-          <React.Suspense key={index} fallback={<div>Loading...</div>}>
-            <AudioPlayer2 url={audio.url} title={audio.title} genera={audio.genera} />
-          </React.Suspense>
-        ))}
+        <Suspense fallback=
+          {<div className="flex items-center justify-center">
+            Loading...
+          </div>}>
+          {allLoadedAudioData.map((audio, index) => (
+            <AudioPlayer2 key={index} url={audio.url} title={audio.title} genera={audio.genera} />
+          ))}
+        </Suspense>
       </div>
 
       <div className="flex items-center justify-center mt-2 md:mt-5 lg:mt-5">
 
-          {allLoadedAudioData.length < totalItems && (
-            <button onClick={handleLoadMore} className="py-2.5 px-5 mb-2 me-2 overflow-hidden text-md font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-teal-300 to-lime-300 group-hover:from-teal-300 group-hover:to-lime-300 dark:text-white dark:hover:text-gray-900 focus:ring-4 focus:outline-none focus:ring-lime-200 dark:focus:ring-lime-800">
-              Load More
-            </button>
-          )}
+        {allLoadedAudioData.length < totalItems && (
+          <button onClick={handleLoadMore} className="py-2.5 px-5 mb-2 me-2 overflow-hidden text-md font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-teal-300 to-lime-300 group-hover:from-teal-300 group-hover:to-lime-300 dark:text-white dark:hover:text-gray-900 focus:ring-4 focus:outline-none focus:ring-lime-200 dark:focus:ring-lime-800">
+            Load More
+          </button>
+        )}
 
-        </div>
+      </div>
     </div>
   );
 }
