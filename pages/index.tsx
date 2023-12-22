@@ -21,7 +21,9 @@ import {
 
 import Solutions2 from "../components/Solutions2";
 
-import Music1 from "../components/Music1";
+
+const Music1 = lazy(() => import("../components/Music1"));
+
 const Home: NextPage = () => {
   return (
     <div className="mx-auto flex max-w-full flex-col items-center justify-center py-2">
